@@ -7,5 +7,5 @@ def gen_fib_even(n):
         if a % 2 == 0 : 
             yield a
             
-sum(gen_fib_even(4000000))
+print(sum(gen_fib_even(4000000)))
 
