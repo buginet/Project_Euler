@@ -1,3 +1,4 @@
+
 def gen_fib_even(n):
     a = 1
     b = 2
@@ -7,3 +8,4 @@ def gen_fib_even(n):
             yield a
             
 sum(gen_fib_even(4000000))
+
