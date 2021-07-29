@@ -1,4 +1,4 @@
-# Project-Euler solution
+# Project-Euler solutions
 * * *
 
-I use python
+I solved problems using python.
